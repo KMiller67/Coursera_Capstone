@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Coursera Capstone
 Repository for the capstone project of the Applied Data Science Capstone course offered by Coursera
 
 ### 1.	Introduction/Business Problem – Best Pizza in Town
